@@ -1,0 +1,15 @@
+C:\Users\Andreea\source\repos\Dictionar2\bin\Debug\Dictionar2.exe.config
+C:\Users\Andreea\source\repos\Dictionar2\bin\Debug\Dictionar2.exe
+C:\Users\Andreea\source\repos\Dictionar2\bin\Debug\Dictionar2.pdb
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.csproj.AssemblyReference.cache
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.AdaugaCuvant.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.Form1.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.Properties.Resources.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.csproj.GenerateResource.cache
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.exe
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.pdb
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.DragAndDrop.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.Grafic.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.Retrieve.resources
+C:\Users\Andreea\source\repos\Dictionar2\obj\Debug\Dictionar2.Store.resources
